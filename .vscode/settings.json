@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": ".venv/bin/python",
+    "python.pythonPath": "/home/ciber/.local/share/virtualenvs/DigitalMediaStore-RESTful-mhlrus3t/bin/python",
     "python.terminal.activateEnvInCurrentTerminal": true,
     "python.linting.flake8Enabled": true,
     "python.linting.flake8Args": [
